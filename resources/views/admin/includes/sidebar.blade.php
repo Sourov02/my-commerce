@@ -57,7 +57,7 @@
                         <span class="hide-menu">Order Module</span>
                     </a>
                     <ul aria-expanded="false" class="collapse">
-                        <li><a href="widget-data.html">Manage Order</a></li>
+                        <li><a href="{{route('admin.all-order')}}">Manage Order</a></li>
 
                     </ul>
                 </li>
